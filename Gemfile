@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 # Use a versão Rails 6.1
-gem "rails", "~> 6.1.4"
+gem "rails", "~> 7.0.8"
 gem "mongoid", "~> 7.3.3"
 # The modern asset pipeline for Rails
 # gem "propshaft"
