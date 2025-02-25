@@ -2,7 +2,7 @@ source "https://rubygems.org"
 
 # Use a versão Rails 6.1
 gem "rails", "~> 6.1.4"
-gem "mongoid", "~> 7.3.3"
+gem "mongoid", "~> 9.0.6"
 # The modern asset pipeline for Rails
 # gem "propshaft"
 # Use the Puma web server [https://github.com/puma/puma]
